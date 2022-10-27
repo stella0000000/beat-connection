@@ -32,15 +32,9 @@ let offset, coord, headline, headlineTitle;
 let portfolio = document.createElement('a');
 portfolio.setAttribute('id','portfolio');
 portfolio.href = 'http://www.heystella.io'
-portfolio.text = '> portfolio'
+portfolio.text = 'xoxo, stella'
 portfolio.target = '_blank'
 body.append(portfolio);
-let github = document.createElement('a');
-github.setAttribute('id','github');
-github.href = 'https://github.com/stellalc7/beat-connection'
-github.text = '> git'
-github.target = '_blank'
-body.append(github);
 
 // var locIcon = document.createElement('img');
 // locIcon.src = ''

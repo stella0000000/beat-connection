@@ -45,7 +45,7 @@ app.get("/news", (request, response) => {
     .catch((error) => response.send(error));
 });
 
-const PORT = process.env.PORT || "https://ultideploy.onrender.com";
+const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {
   // console.log(app._router.stack);               // check routes
   console.log(`Listening at localhost:${PORT}`);

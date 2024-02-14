@@ -47,10 +47,10 @@
     "serve-favicon": "^2.5.0",
     "three": "^0.135.0",
     "uglify-js": "^3.14.4",
-    "webpack": "^5.64.4",
-    "webpack-cli": "^4.9.1"
+    "webpack": "^5.64.4"
   },
   "devDependencies": {
-    "dotenv-webpack": "^7.1.0"
+    "dotenv-webpack": "^7.1.0",
+    "webpack-cli": "^5.1.4"
   }
 }

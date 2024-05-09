@@ -1,5 +1,5 @@
 ## `Overview`
-BEAT C♡NNECTI♡N is an interactive site encouraging exploration built with JavaScript. Visit, listen, and learn. Discover streams, local headlines, weather and time wherever you decide to go.<br><br>
+BEAT C♡NNECTI♡N is an interactive site encouraging exploration built with JavaScript. Discover streams, local headlines, weather and time wherever you decide to go.<br><br>
 ✨ Created with magic, wonder, surprise, and delight in mind. ✨ The site doubles as passive technology; the UI/UX is minimal (with essentially one call to action), design hierarchy is reconsidered in response to the user's interactions, and there is a subtle rotation to the canvas.
 
 ## Behold our beat connections <a href="https://beatconnection.onrender.com" target="_blank">here</a>.
